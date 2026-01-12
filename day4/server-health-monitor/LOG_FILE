@@ -1,0 +1,33 @@
+26-01-12 Jan:01:1768212511 : Health check started 
+26-01-12 Jan:01:1768212511 :  cpu Usage : 5%
+26-01-12 Jan:01:1768212511 : disk /: 1%
+26-01-12 Jan:01:1768212511 : alert : service stopped : ssh
+26-01-12 Jan:01:1768212511 : alert : service stopped : docker
+26-01-12 Jan:01:1768212511 : alert : service stopped : nginx
+26-01-12 Jan:01:1768212511 : alert : network down 
+26-01-12 Jan:01:1768212511 :  health check completed 
+26-01-12 Jan:01:1768214746 : Health check started 
+26-01-12 Jan:01:1768214746 :  cpu Usage : 2%
+26-01-12 Jan:01:1768214746 : Memory Usage: 12%
+26-01-12 Jan:01:1768214746 : disk /: 1%
+26-01-12 Jan:01:1768214746 : alert : service stopped : ssh
+26-01-12 Jan:01:1768214746 : alert : service stopped : docker
+26-01-12 Jan:01:1768214746 : alert : service stopped : nginx
+26-01-12 Jan:01:1768214746 : alert : network down 
+26-01-12 Jan:01:1768214746 :  health check completed 
+26-01-12 Jan:01:1768214782 : Health check started 
+26-01-12 Jan:01:1768214782 :  cpu Usage : 2%
+26-01-12 Jan:01:1768214782 : Memory Usage: 12%
+26-01-12 Jan:01:1768214782 : disk /: 1%
+26-01-12 Jan:01:1768214782 : alert : service stopped : ssh
+26-01-12 Jan:01:1768214782 : alert : service stopped : docker
+26-01-12 Jan:01:1768214782 : alert : service stopped : nginx
+26-01-12 Jan:01:1768214782 : alert : network down 
+26-01-12 Jan:01:1768214782 :  health check completed 
+26-01-12 Jan:01:1768214841 : Health check started 
+26-01-12 Jan:01:1768214841 : Memory Usage: 12%
+26-01-12 Jan:01:1768214841 : disk /: 1%
+26-01-12 Jan:01:1768214841 : alert : service stopped : ssh
+26-01-12 Jan:01:1768214841 : alert : service stopped : docker
+26-01-12 Jan:01:1768214841 : alert : service stopped : nginx
+26-01-12 Jan:01:1768214841 :  health check completed 
