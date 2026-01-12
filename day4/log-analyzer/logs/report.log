@@ -1,0 +1,66 @@
+ : log analysis started
+ : Total Requests : 
+ : top 5 IP adresses:
+ :  total 4xx Errors : 0
+ : Total 5xx Errors: 0
+ :  Possible attackers:
+ : Most Requested URLs:
+ :  Log analysis completed
+26-01-12 Jan:01:1768219345 : log analysis started
+26-01-12 Jan:01:1768219345 : Total Requests : 
+26-01-12 Jan:01:1768219345 : top 5 IP adresses:
+26-01-12 Jan:01:1768219345 :  total 4xx Errors : 0
+26-01-12 Jan:01:1768219345 : Total 5xx Errors: 0
+26-01-12 Jan:01:1768219345 :  Possible attackers:
+26-01-12 Jan:01:1768219345 : Most Requested URLs:
+26-01-12 Jan:01:1768219345 :  Log analysis completed
+26-01-12 Jan:01:1768219408 : log analysis started
+26-01-12 Jan:01:1768219408 : Total Requests : 0
+26-01-12 Jan:01:1768219408 : top 5 IP adresses:
+26-01-12 Jan:01:1768219408 :  total 4xx Errors : 0
+26-01-12 Jan:01:1768219408 : Total 5xx Errors: 0
+26-01-12 Jan:01:1768219408 :  Possible attackers:
+26-01-12 Jan:01:1768219408 : Most Requested URLs:
+26-01-12 Jan:01:1768219408 :  Log analysis completed
+26-01-12 Jan:01:1768220130 : log analysis started
+26-01-12 Jan:01:1768220130 : Total Requests : 0
+26-01-12 Jan:01:1768220130 : top 5 IP adresses:
+26-01-12 Jan:01:1768220130 :  total 4xx Errors : 0
+26-01-12 Jan:01:1768220130 : Total 5xx Errors: 0
+26-01-12 Jan:01:1768220130 :  Possible attackers:
+26-01-12 Jan:01:1768220130 : Most Requested URLs:
+26-01-12 Jan:01:1768220130 :  Log analysis completed
+26-01-12 Jan:01:1768220428 : log analysis started
+26-01-12 Jan:01:1768220428 : Total Requests : 7
+26-01-12 Jan:01:1768220428 : top 5 IP adresses:
+26-01-12 Jan:01:1768220428 : 3 192.168.1.10
+26-01-12 Jan:01:1768220428 : 2 192.168.1.11
+26-01-12 Jan:01:1768220428 : 1 x
+26-01-12 Jan:01:1768220428 : 1 192.168.1.12
+26-01-12 Jan:01:1768220428 :  total 4xx Errors : 0
+26-01-12 Jan:01:1768220428 : Total 5xx Errors: 0
+26-01-12 Jan:01:1768220428 :  Possible attackers:
+26-01-12 Jan:01:1768220428 : Most Requested URLs:
+26-01-12 Jan:01:1768220428 : 6 HTTP/1.1"
+26-01-12 Jan:01:1768220428 : 1
+26-01-12 Jan:01:1768220428 :  Log analysis completed
+2026-01-12 12:32:39 : Log analysis started
+2026-01-12 12:32:39 : Total Requests: 2
+2026-01-12 12:32:39 : Top 5 IP addresses:
+2026-01-12 12:32:39 : 2 ::1
+2026-01-12 12:32:39 : Total 4xx Errors: 0
+2026-01-12 12:32:39 : Total 5xx Errors: 0
+2026-01-12 12:32:39 : Possible Attackers:
+2026-01-12 12:32:39 : Most Requested URLs:
+2026-01-12 12:32:39 : 2 /
+2026-01-12 12:32:39 : Log analysis completed
+2026-01-12 12:32:52 : Log analysis started
+2026-01-12 12:32:52 : Total Requests: 2
+2026-01-12 12:32:52 : Top 5 IP addresses:
+2026-01-12 12:32:52 : 2 ::1
+2026-01-12 12:32:52 : Total 4xx Errors: 0
+2026-01-12 12:32:52 : Total 5xx Errors: 0
+2026-01-12 12:32:52 : Possible Attackers:
+2026-01-12 12:32:52 : Most Requested URLs:
+2026-01-12 12:32:52 : 2 /
+2026-01-12 12:32:52 : Log analysis completed
