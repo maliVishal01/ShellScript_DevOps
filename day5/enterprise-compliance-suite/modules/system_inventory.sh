@@ -1,0 +1,8 @@
+echo "========== SYSTEM INVENTORY =========="
+echo "Hostname: $(hostname)"
+echo "OS: $(grep PRETTY_NAME /etc/os-release | cut -d= -f2)"
+echo "Kernel: $(uname -r)"
+echo "IP Address: $(hostname -I)"
+echo "CPU: $(lscpu | grep 'Model name' | cut -d: -f2)"
+echo "RAM: $(free -h | awk '/Mem/ {print $2}')"
+echo ""

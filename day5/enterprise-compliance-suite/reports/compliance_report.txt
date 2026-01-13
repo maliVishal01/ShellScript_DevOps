@@ -1,0 +1,44 @@
+========== SYSTEM INVENTORY ==========
+Hostname: MALIBRIJESH
+OS: "Ubuntu 24.04.3 LTS"
+Kernel: 6.6.87.2-microsoft-standard-WSL2
+IP Address: 172.18.166.234 
+CPU:                            Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+RAM: 3.8Gi
+
+========== SECURITY AUDIT ==========
+Open Network Ports:
+127.0.0.54:53
+127.0.0.53%lo:53
+10.255.255.254:53
+127.0.0.1:323
+[::1]:323
+127.0.0.53%lo:53
+10.255.255.254:53
+127.0.0.54:53
+0.0.0.0:80
+[::]:80
+
+Sudo Users:
+vishal
+
+World Writable Files (Top 10):
+/home/vishal/ShellScript_DevOps/day4/server-health-monitor/server-health-monitor.sh
+/home/vishal/ShellScript_DevOps/day4/log-analyzer/analyze_logs.sh
+/home/vishal/ShellScript_DevOps/day3/linux_admin_tool.sh
+
+========== DISK COMPLIANCE ==========
+OK: / usage is 1%
+
+========== USER COMPLIANCE ==========
+vishal                                                              **Never logged in**
+devops                                                              **Never logged in**
+
+========== SERVICE COMPLIANCE ==========
+nginx : RUNNING
+ssh : NOT RUNNING
+cron : RUNNING
+
+========== PATCH STATUS ==========
+63
+
