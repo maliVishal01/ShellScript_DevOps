@@ -1,0 +1,59 @@
+Linux Production Health Report
+Generated on: 2026-01-13 13:10:49
+----------------------------------------
+
+Disk Status
+------------
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         130G   42G   89G  32% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.9G  954G   1% /
+none            1.9G  128K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  548K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             130G   42G   89G  32% /mnt/c
+D:\              57G  1.7G   56G   3% /mnt/d
+E:\              51G   21G   30G  42% /mnt/e
+tmpfs           388M   20K  388M   1% /run/user/1000
+tmpfs           388M   20K  388M   1% /run/user/0
+
+Partitions above 80% usage:
+
+Service Status
+--------------
+  UNIT LOAD ACTIVE SUB DESCRIPTION
+
+0 loaded units listed.
+
+World Writable Files (Security Risk)
+----------------------------------
+/home/vishal/ShellScript_DevOps/day5/disaster-recovery-system/main.sh
+/home/vishal/ShellScript_DevOps/day4/server-health-monitor/server-health-monitor.sh
+/home/vishal/ShellScript_DevOps/day4/log-analyzer/analyze_logs.sh
+/home/vishal/ShellScript_DevOps/day3/linux_admin_tool.sh
+
+Recent System Errors
+--------------------
+Jan 13 10:30:23 MALIBRIJESH kernel: PCI: Fatal: No config space access function found
+Jan 13 10:30:23 MALIBRIJESH kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+Jan 13 10:30:23 MALIBRIJESH kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+Jan 13 10:30:23 MALIBRIJESH kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+Jan 13 10:30:23 MALIBRIJESH kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+Jan 13 10:30:23 MALIBRIJESH kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+Jan 13 10:30:29 MALIBRIJESH login[414]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+Jan 13 10:30:29 MALIBRIJESH login[414]: PAM adding faulty module: pam_lastlog.so
+Jan 13 10:30:30 MALIBRIJESH unknown: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+Jan 13 13:03:23 MALIBRIJESH unknown: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+
+Summary
+-------
+All disks are within safe usage limits.
+Warning: Some system services have failed.
+
+End of report.
