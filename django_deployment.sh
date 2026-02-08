@@ -5,10 +5,10 @@
 # Function to clone the Django app code
 code_clone() {
     echo "Cloning the Django app..."
-    if [ -d "django-notes-app" ]; then
+    if [ -d "Brijesh-s-Fitness" ]; then
         echo "The code directory already exists. Skipping clone."
     else
-        git clone https://github.com/LondheShubham153/django-notes-app.git || {
+        git clone https://github.com/maliVishal01/Brijesh-s-Fitness.git || {
             echo "Failed to clone the code."
             return 1
         }
